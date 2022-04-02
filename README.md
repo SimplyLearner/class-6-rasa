@@ -19,10 +19,9 @@ python -m spacy download en_core_web_md
 rasa init
 /stop
 
+```
 --
 # Optional Step:
 - Download & install VS code : https://code.visualstudio.com/download
 - Download & install Git : https://git-scm.com/downloads
 - Start Vs code and select Terminal on Top
-
-```
