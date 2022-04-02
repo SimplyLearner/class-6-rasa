@@ -12,6 +12,9 @@ rasa --version
 ```python
 # For windows user - create a folder inside the C:\Users\<username> with foldername as  --> class-6-rasa
 cd class-6-rasa
+pip3 install rasa[spacy]
+python3 -m spacy download en_core_web_md
+
 rasa init
 
 ```
