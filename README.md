@@ -9,7 +9,8 @@ pip3 install -U --user pip && pip3 install rasa
 
 #Create a Working directory as per your requirement:
 ```python
-cd <workdir>
+# For windows user - create a folder inside the C:\Users\<username> with foldername as  --> class-6-rasa
+cd class-6-rasa
 rasa init
 
 ```
