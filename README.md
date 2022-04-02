@@ -14,7 +14,8 @@ rasa --version
 cd class-6-rasa
 pip3 install rasa[spacy]
 python3 -m spacy download en_core_web_md
-
+#if above line failes - run below line
+python -m spacy download en_core_web_md
 rasa init
 
 ```
