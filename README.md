@@ -18,6 +18,7 @@ python3 -m spacy download en_core_web_md
 python -m spacy download en_core_web_md
 rasa init
 /stop
+conda install jupyter notebook
 
 ```
 --
